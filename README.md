@@ -1,16 +1,19 @@
 ## Hi there 👋
 
 <!--
-**rias890/rias890** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**rias890/rias890** 
 
-Here are some ideas to get you started:
+-
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+
+- 👋 I’m Ria, a high schooler and an avid coder! 💻
+- 🚀 I’ve completed introductory courses in HTML, JavaScript, and Python with Zebra Robotics, and I’m currently working on an intermediate Python course.
+- 🌟 I’m passionate about web design and problem-solving, and I aspire to be a skilled coder one day.
+- 🎨 In my free time, I enjoy listening to music, drawing, and dining at my favorite restaurants!
+
+
+
+
+
 -->
